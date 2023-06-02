@@ -1,0 +1,49 @@
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Visual Studio
+.vs/
+.vsconfig
+*.sln
+*.suo
+*.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.pdb
+
+# Unity specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+Assets/AssetStoreTools*
+UserSettings/
+
+# User-specific settings
+*.unityproj
+*.unitypackage
+*.csproj
+*.sln
+*.pidb
+*.userprefs
+*.dll
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Build artifacts
+*.apk
+*.unitypackage
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# macOS
+.DS_Store
